@@ -1,4 +1,4 @@
-
+/*Tag Selectors*/
 
 body{
   margin: 0;
@@ -34,6 +34,9 @@ a{
   text-decoration: none;
 }
 
+
+
+
 a:hover{
   color: #EAF6F6;
 }
@@ -50,6 +53,16 @@ hr{
 }
 
 
+/*Class selectors*/
+
+
+.home{
+  font-size: 1.5rem;
+}
+
+.link{
+  margin: auto;
+}
 
 .top-container{
   background-color: #B9FFF8;
@@ -75,6 +88,12 @@ hr{
   position:absolute;
   left: 300px;
   bottom: 300px;
+}
+
+.bottom-cloud-contact{
+  position:absolute;
+  left: 300px;
+  bottom: 30px;
 }
 
 .top-cloud{
@@ -105,6 +124,24 @@ hr{
   width: 25%;
   float: right;
   margin-left: 30px;
+}
+
+.flyingspur-img{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.bentayga-img{
+  width:25%;
+  float: left;
+  margin-right: 20px
+}
+
+.bentaygaewb-img{
+  width:25%;
+  float: right;
+  margin-right: 20px
 }
 
 
